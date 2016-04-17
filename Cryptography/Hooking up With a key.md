@@ -8,9 +8,9 @@ k  ∈ K
 - E: M x K -> C 
 - D: C x K -> M
 
-#Correctness property: 
+###Correctness property: 
 
-∀ m(1)k : D(k)(E(k)(m)) = m 
+#∀ m(1)k : D(k)(E(k)(m)) = m 
 
 #Usage
 
