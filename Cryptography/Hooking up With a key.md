@@ -14,4 +14,4 @@ k  ∈ K
 
 #Usage
 
-Makes our functions rely on two public keys shared betwen two parties, the encryption and the decryption.
+Makes our functions rely on two public keys shared between two parties, the encryption and the decryption.
