@@ -13,8 +13,8 @@
 - C = a given set of all possible ciphertexts 
 
 ###Function patterns
-####E:M -> C
-####D: C -> M
+####E:M => C
+####D: C => M
 
 #∀ m ∈ M: D(E(m)) = m
 
